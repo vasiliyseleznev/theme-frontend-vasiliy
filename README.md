@@ -1,5 +1,5 @@
 # Magento 2 Cloud show-case theme
-# theme-frontend-vasiliy
+**theme-frontend-vasiliy**
 
 ## Installation
 1. add repository to the composer
