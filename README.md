@@ -7,7 +7,7 @@
 "repositories": [
       {
         "type": "vcs",
-        "url": "https://github.com/vasiliyseleznev/magento-theme-vasiliy"
+        "url": "https://github.com/vasiliyseleznev/theme-frontend-vasiliy"
       }
     ],
 ```
