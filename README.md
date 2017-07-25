@@ -9,12 +9,12 @@
         "type": "vcs",
         "url": "https://github.com/vasiliyseleznev/theme-frontend-vasiliy"
       }
-    ],
+    ]
 ```
 2. add package to require section
 ```
 "require": {
-        "vasiliyseleznev/theme-frontend-vasiliy": "*",
+        "vasiliyseleznev/theme-frontend-vasiliy": "dev-master"
         ...
 ```
 3. run composer update
