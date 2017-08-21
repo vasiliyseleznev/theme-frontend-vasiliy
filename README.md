@@ -18,6 +18,3 @@
         ...
 ```
 3. run composer update
-4. run bin/magento module:enable Magento_GraphQL
-5. bin/magento setup:upgrade
-6. bin/magento cache:clean
